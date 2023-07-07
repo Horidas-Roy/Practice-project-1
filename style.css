@@ -75,3 +75,38 @@
   font-family: initial;
   font-size: large;
 }
+.about-img{
+    width:300px
+}
+.about-container{
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.about-heading{
+    text-align: center;
+    font-size: 78px;
+margin-top: 10px;
+font-weight: bold;
+margin-bottom: 15px;
+}
+.about-img{
+    width:250;
+    margin: 90px;
+    padding-top: 45px;
+    padding-right: 90px;
+}
+.about-left>h2{
+    font-size: 27px;
+font-weight: bolder;margin-bottom: 10px;
+}
+.about-p{
+    font-size: 20px;
+font-style:normal;
+   margin-bottom: 10px;
+}
+.about-left{
+    padding-bottom: 90px;
+}
